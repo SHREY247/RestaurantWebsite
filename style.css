@@ -216,6 +216,10 @@ align-items: center;
     padding:2px 2px;
 }
 
+#Rasmalai img{
+    margin-top:20px;    
+}
+
 .services h2{
     color: var(--main-color);
 }

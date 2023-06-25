@@ -216,9 +216,10 @@ align-items: center;
     padding:2px 2px;
 }
 
-.box .box-img #Thali img{
+#Thali{
     margin-top: 25px;
 }
+
 
 .services h2{
     color: var(--main-color);

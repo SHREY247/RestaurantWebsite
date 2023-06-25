@@ -201,10 +201,6 @@ align-items: center;
     justify-content: center;
 }
 
-#mocktail{
-    margin-top: 64px;
-}
-
 .box span{
     font-size: var(--h3-font);
     color: var(--main-color);

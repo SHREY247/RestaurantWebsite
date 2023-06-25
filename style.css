@@ -187,19 +187,6 @@ align-items: center;
     grid-column:  2;
 }
 
-#Masala{
-    margin-bottom:2px;
-}
-
-#Platter img{
-    height:600px;
-    width:600px;
-}
-
-#Thali img{
-    height:600px;
-    width:650px;
-}
 
 .box{
     position: relative;

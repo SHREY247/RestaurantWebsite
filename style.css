@@ -154,12 +154,10 @@ section{
 
 .menu-container .box .box-img img{
     width:500px;
+    height:500px;
 } 
 .menu h2{
     color: #ff9100;
-}
-.menu-container .box .box-img img{
-    height:450px;
 }
 
 .heading{
@@ -178,7 +176,7 @@ section{
 .menu-container {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-grid-gap: 3rem;
+grid-gap: 5rem;
 grid-auto-flow: row dense;
 align-items: center;
 }

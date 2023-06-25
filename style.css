@@ -221,6 +221,10 @@ align-items: center;
     margin-bottom:55px;
 }
 
+#Thali img{
+    margin-top:20px;
+}
+
 .services h2{
     color: var(--main-color);
 }

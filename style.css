@@ -325,7 +325,7 @@ align-items: center;
 
 .col.social 
 {
-    margin-left:10px;
+    margin-left:10px !important;
 }
 
 

@@ -216,8 +216,12 @@ align-items: center;
     padding:2px 2px;
 }
 
-#Rasmalai img{
-    margin-top:20px;    
+#mocktail img{
+    margin-bottom:20px;
+}
+
+#platter img{
+    margin-top:20px;
 }
 
 .services h2{
@@ -230,6 +234,7 @@ align-items: center;
     grid-gap:1.5rem;
     margin-top: 4rem;
 }
+
 
 .s-box{
     text-align: center;

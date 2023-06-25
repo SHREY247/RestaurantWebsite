@@ -216,15 +216,6 @@ align-items: center;
     padding:2px 2px;
 }
 
-#mocktail img
-{
-    margin-bottom:55px;
-}
-
-#Thali img{
-    margin-top:20px;
-}
-
 .services h2{
     color: var(--main-color);
 }

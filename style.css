@@ -152,6 +152,10 @@ section{
     font-weight: 600;
 }
 
+.menu .heading{
+    margin-right: 100px;
+}
+
 .menu h2{
     color: #ff9100;
 }
